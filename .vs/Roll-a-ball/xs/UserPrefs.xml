@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{12AD755F-E738-FA7E-1C34-C5745A6D1C71}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/QuitOnEscape.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="57" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="23" Column="4" />
+      <File FileName="Assets/Scripts/Rotator.cs" />
+      <File FileName="Assets/Scripts/QuitOnEscape.cs" Line="10" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7cb16e2-e4b4-492e-a096-eae3bb6b757c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rodrigosavage/Documents/UnityProjects/Daniela/Roll-a-ball/Assets/Scripts/Rotator.cs" relfile="Assets/Scripts/Rotator.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
